@@ -1,5 +1,5 @@
 {
-    "name": "fof/pages",
+    "name": "reazzon/pages",
     "description": "Create custom pages with Flarum",
     "keywords": [
         "flarum"
@@ -7,7 +7,7 @@
     "type": "flarum-extension",
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.16",
+        "flarum/core": "^1.0.0",
         "ext-json": "*"
     },
     "support": {
